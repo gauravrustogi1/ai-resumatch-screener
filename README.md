@@ -87,7 +87,7 @@ Mark processed emails as Read (IMAP UID store)
 
 **1. Clone and create virtual environment**
 ```bash
-git clone https://github.com/yourusername/jobagent.git
+git clone https://github.com/gauravrustogi1/ai-resumatch-screener.git
 cd jobagent
 python -m venv venv
 source venv/bin/activate  # on Windows: venv\Scripts\activate
